@@ -1,0 +1,11 @@
+{
+  "name": "atividade4_ambientes",
+  "version": "1.0.0",
+  "description": "Algoritmos fundamentais testados com Jest",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
